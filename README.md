@@ -1,8 +1,8 @@
 # Moscow Residential Real Estate Market — Business Insight Report
 
-> **Source:** Cian.ru — Russia's leading real estate marketplace
-> **Scope:** Apartments for sale, Moscow region
-> **Dataset:** 1,500 active listings · March 2026
+> - **Source:** Cian.ru — Russia's leading real estate marketplace
+> - **Scope:** Apartments for sale, Moscow region
+> - **Dataset:** 1,500 active listings · March 2026
 
 ---
 
